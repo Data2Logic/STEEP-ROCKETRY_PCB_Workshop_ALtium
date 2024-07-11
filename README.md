@@ -8,7 +8,7 @@ To get the most of of this section, please complete the following tasks:
 - Activate the your Altium accound on Altium Lab with your Student email account : This give you unlimitted access to Altium as long as you are a student
 - Go to Altium 365, sign in with your new account, on the top right hand conner, click your icons, and click "ACTIVATE WORKSPACE"
 - Register for Easy EDA Pro(it's free): https://easyeda.com/
-- Registor for JLCPCB: https://jlcpcb.com/ 
+- Register for JLCPCB: https://jlcpcb.com/ 
 - (Optional) Download and install Library loader (Altium Add-ons) : https://www.samacsys.com/altium-designer-library-instructions/
 - (Optional) Download and install Saturn PCB: https://saturnpcb.com/saturn-pcb-toolkit/
 
